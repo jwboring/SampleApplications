@@ -13,7 +13,6 @@ import org.springframework.web.context.support.WebApplicationContextUtils;
 import org.springframework.web.servlet.ModelAndView;
 
 /*
- * author: Crunchify.com
  * 
  */
 
